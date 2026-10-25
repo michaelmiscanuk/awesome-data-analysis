@@ -324,6 +324,7 @@ SQL tutorials and database design principles.
 - [AnimateSQL](https://animatesql.com/) - Interactive tool that visualizes the step-by-step execution of SQL queries.
 - [SQL Tips and Tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - Useful SQL techniques and optimizations for data analysis.
 - [Practice Window Functions](https://www.practicewindowfunctions.com) - Free interactive SQL tutorial site focused on mastering window functions through 80+ hands-on problems with hints and solutions.
+- [Querying Data for a Business Question](https://www.cheatgrid.com/checklists/data-analyst/querying-data-for-a-business-question) - Free checklist for turning a business question into a correct SQL query: grain, filters, date ranges, joins and result checks.
 
 [⬆ back to contents](#contents)
 
